@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HOMEWORK1_OSH_VIDEOGAME.unity
+  isLoaded: 1
+  isActive: 1
